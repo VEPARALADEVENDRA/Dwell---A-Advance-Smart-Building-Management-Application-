@@ -1,6 +1,7 @@
 Dwell is an advance smart building management application 
 Designed to enhance the living experience in residential complexes by offering a comprehensive suite of features for residents, building owners and securing personnel. 
 Developed using android studio, Kotlin and firebase. Dwell provides a seamless, efficient and secure platform for managing residential buildings.
+
 Key Features:
 1. Admin Interface (Building Owner):
      -->Bills Section
